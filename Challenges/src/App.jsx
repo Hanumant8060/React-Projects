@@ -10,12 +10,12 @@ function App() {
     <>
       <Player />
       <div id="challenges">
-        {/* <TimerChallenge title='easy' targetTime={1} />
+        <TimerChallenge title='easy' targetTime={1} />
         <TimerChallenge title='medium' targetTime={3} />
         <TimerChallenge title='hard' targetTime={5} />
-        <TimerChallenge title='expert' targetTime={10} /> */}
+        <TimerChallenge title='expert' targetTime={10} />
         {/* <ResetForm /> */}
-        <Course />
+        {/* <Course /> */}
       </div>
     </>
   );
